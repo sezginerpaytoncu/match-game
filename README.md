@@ -1,4 +1,4 @@
-# Country & Capitals Matching Game
+# Country & Capital Matching Game
 ![Recording](./public/recording.gif)
 
 ## Getting Started with Create React App
